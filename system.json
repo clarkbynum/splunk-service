@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "deployments": [],
+    "description": "",
+    "messaging_url": "messaging.clearblade.com:1883",
+    "name": "splunk-service",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "cef5f9ad0bfcaea1f7e1e399851f",
+    "system_secret": "CEF5F9AD0B84C485E19BDACACF7E"
+}
